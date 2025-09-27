@@ -2,7 +2,7 @@
 
 import assemblyai as aai
 
-aai.settings.api_key = "fd7bc3304300497c866df6dc0b64733a"
+aai.settings.api_key = ""
 
 # audio_file = "./local_file.mp3"
 audio_file = "audio.mp3"

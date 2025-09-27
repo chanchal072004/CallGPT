@@ -1,5 +1,4 @@
 assemblyai==0.44.3
-pyttsx3
 langchain_community
 langchain_groq
 langgraph
